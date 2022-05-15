@@ -1,0 +1,20 @@
+<li class="wc-block-grid__product"><a href="product/?/" class="wc-block-grid__product-link"><div class="wc-block-grid__product-image"><img width="450" height="450" src="wp-content/uploads/" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""/></div><div class="wc-block-grid__product-title">?</div></a></li>
+
+<div data-thumb="../../wp-content/uploads/?" class="woocommerce-product-gallery__image"><img width="1080" height="1080" src="../../wp-content/uploads/?" alt="?" /></div>
+
+<form class="variations_form cart" data-product_variations="[{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;36&quot;},&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true}]">
+
+
+<li class="entry has-media col span_1_of_4 owp-content-center owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-section circle-sale product type-product status-publish instock has-post-thumbnail shipping-taxable purchasable product-type-variable"> <div class="product-inner clr">  <ul class="woo-entry-inner clr"><li class="image-wrap"> <div class="woo-entry-image clr"> <a href="../../product/__" class="woocommerce-LoopProduct-link no-lightbox"> <img width="450" height="450" src="../../wp-content/uploads/___.jpg" class="woo-entry-image-main" alt="____"> </a> </div> </li><li class="title"><a href="/product/____">__________</a></li></ul></div></li>
+
+<url><loc>product/___________</loc><lastmod>2021-04-20T12:07:39+00:00</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+
+convert test.jpg -fuzz 7% -fill none -draw "color 0,0 floodfill" -background white -flatten test-white.jpg
+------------------
+- home
+- shop
+- category
+- brands
+- product
+- sitemap
+------------------

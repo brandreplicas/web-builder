@@ -1,0 +1,2 @@
+1) create dynamic page header
+1) create dynamic page footer
